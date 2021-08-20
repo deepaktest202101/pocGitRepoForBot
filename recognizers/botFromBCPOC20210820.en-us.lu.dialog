@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.LuisRecognizer",
+  "id": "LUIS_botFromBCPOC20210820",
+  "applicationId": "=settings.luis.botFromBCPOC20210820_en_us_lu.appId",
+  "version": "=settings.luis.botFromBCPOC20210820_en_us_lu.version",
+  "endpoint": "=settings.luis.endpoint",
+  "endpointKey": "=settings.luis.endpointKey"
+}

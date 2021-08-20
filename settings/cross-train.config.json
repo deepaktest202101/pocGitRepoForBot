@@ -1,0 +1,8 @@
+{
+  "botFromBCPOC20210820.en-us": {
+    "rootDialog": true,
+    "triggers": {
+      "weather": ""
+    }
+  }
+}
